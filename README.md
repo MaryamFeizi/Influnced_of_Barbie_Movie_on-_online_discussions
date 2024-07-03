@@ -1,0 +1,1 @@
+This repository is for the course of "Network Science" project in university of Padova. In this project, you can see the influnce of Barbie Movie before and after release on the disscussion about "Feminism" in Reddit.
